@@ -12,7 +12,7 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['51953146363', 'Pana𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],  
+  ['51953146363', '𝙋𝙖𝙣𝙖𝙗𝙤𝙩-𝙈𝘿 💖🐈', true],  
   ['51931543536', , '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
   ['51931543536', , '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
   ['51931543536', 'DIEGO-OFC | COLABO', true],
